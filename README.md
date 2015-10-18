@@ -1,0 +1,1 @@
+ android_vendor_samsung_fortuna3g for TESLA_OS
